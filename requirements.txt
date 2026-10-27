@@ -1,5 +1,6 @@
-python-telegram-bot==21.10
-SpeechRecognition==3.10.4
-pydub==0.25.1
-python-dotenv==1.0.1
-httpx>=0.25.0
+
+python-telegram-bot>=21.0,<23.0
+SpeechRecognition>=3.14.0
+pydub>=0.25.1
+standard-aifc
+audioop-lts
